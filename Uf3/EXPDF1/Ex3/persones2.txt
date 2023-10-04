@@ -1,0 +1,12 @@
+Nombre = Pau
+Apellidos = Rius Noriega
+DNI = 48066800C
+Edad = 18
+Nombre = Pablo
+Apellidos = Rius Noriega
+DNI = 48066800C
+Edad = 18
+Nombre = Juan
+Apellidos = Rius Noriega
+DNI = 48066800C
+Edad = 18

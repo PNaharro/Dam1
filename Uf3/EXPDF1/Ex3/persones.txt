@@ -1,0 +1,2 @@
+nombre:Pau!apellidos:RIus noriega!dni:485968696h!edad:18
+nombre:Ana!apellidos:Maestre Fernaja!dni:132321312j!edad:16
