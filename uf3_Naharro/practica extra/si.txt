@@ -1,0 +1,3 @@
+nombre:      pepito!dni:44444444F!      puntuaciones:12,23,34,45!clasificacion:21!edad:25
+puntuaciones:12,76!      dni:55555555G!nombre:andres!estado:soltero! clasificacion:       29
+dni:66666666T     !situacion:trabajando!  nombre:      juliana!clasificacion:2!     puntuaciones:3,5,78

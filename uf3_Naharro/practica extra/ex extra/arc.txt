@@ -1,0 +1,3 @@
+dni: 44444444F!nombre:pepito!putuaciones:['12', '23', '34', '45']!clasificacion:21
+dni: 55555555G!nombre:andres!putuaciones:['12', '76']!clasificacion:29
+dni: 66666666T!nombre:juliana!putuaciones:['3', '5', '78']!clasificacion:2
